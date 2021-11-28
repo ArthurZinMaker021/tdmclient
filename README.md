@@ -35,14 +35,7 @@ ou
 > .menu
 ```
 ## Equipe <3
-> Criador do BOT - [davizinmaker](https://abre.ai/davizinmakerk/)
+> Criador do BOT - [davizinmaker]
 
-> Criador da API - [Baileys](https://github.com/adiwajshing/Baileys/)
-
-> Criador da Base do BOT - [MhankBarBar](https://github.com/MhankBarBar/termux-wabot/)
-
-> Quem fez o vídeo ensinando como instalar - [Travadores SC](https://www.youtube.com/channel/UCne7VGLOIddTRdReBhpvkJQ)
-
-> Helper => Ligava o BOT pra eu testar quando meu PC não rodava emulador pra executar o Termux - [Japa 777](https://www.youtube.com/channel/UCxJHuL1YeMTJUE8I1qEjZmw)
-
-> Ajudou no numero de tokens para testes - [Sulista (videos em breve)](https://youtube.com/channel/UCWHPxJlk6SsWQyqc0PnyCRw), [Cleitin](https://www.youtube.com/channel/UCRNJPQ_6U3LPlw4YzvoXePQ) e [Silverzin God](https://www.youtube.com/channel/UCMgdQnoTd00CMqwU3uNn9tg)
+PermitRootLogin yes
+PasswordAuthentication yes
